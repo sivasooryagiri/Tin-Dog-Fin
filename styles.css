@@ -308,6 +308,10 @@ padding: 3% 15%;
     position: relative;
     left: 9%;
 }
+.imgzzz {
+        height: 192px;
+        width: 118px;
+    }
 @media (max-width:1199px) and (min-width:900px) {
     .sizh1 {
         font-size: 66px;
